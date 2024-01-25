@@ -12,7 +12,7 @@ This project is a web-based calculator application designed with HTML for the st
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Dynamic display for user inputs and results.
 
-OUTPIT:
+OUTPUT:
 <img width="1280" alt="Screenshot 2024-01-25 at 1 41 50 PM" src="https://github.com/sakshi-2315/calculator/assets/147895275/1f7e4a55-2a7c-45bd-bf21-2211f5cb43af">
 <img width="1280" alt="Screenshot 2024-01-25 at 1 41 56 PM" src="https://github.com/sakshi-2315/calculator/assets/147895275/4e592c8d-ea70-4adc-b0d7-ebb55fc7f2ca">
 <img width="1280" alt="Screenshot 2024-01-25 at 1 42 06 PM" src="https://github.com/sakshi-2315/calculator/assets/147895275/b57f38ae-563c-41d2-8862-f7239ac3a726">
